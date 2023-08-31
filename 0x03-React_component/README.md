@@ -1,4 +1,5 @@
 0x03. React component
+
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
     When to use a Class or a function to create a component
